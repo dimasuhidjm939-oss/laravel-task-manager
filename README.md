@@ -1,8 +1,8 @@
 # Personal Task Manager (Laravel Mini Project)
 
 Project Code: WST21-PM-2026-SF
-Student Name: <YOUR NAME HERE>
-Course & Year: <YOUR COURSE & YEAR HERE>
+Student Name: DIMASUHID, JM R.
+Course & Year: BSIT 2nd yr
 Database Used: MySQL
 
 ## Features
